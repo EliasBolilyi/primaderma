@@ -1,7 +1,11 @@
-@import "common/media-queries.scss";
 @import "common/variables.scss";
 @import "common/main.scss";
 @import "common/modal.scss";
 @import "common/header.scss";
 @import "common/footer.scss";
-
+@import "common/select-custom.scss";
+@import "common/slick.scss";
+@import "common/animation.scss";
+@import "common/breadcramb.scss";
+@import "common/slick-img.scss";
+@import "common/media-queries.scss";
